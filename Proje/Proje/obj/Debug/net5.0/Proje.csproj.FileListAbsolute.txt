@@ -1,0 +1,16 @@
+C:\Users\bk4lk\source\repos\Proje\Proje\obj\Debug\net5.0\Proje.csprojAssemblyReference.cache
+C:\Users\bk4lk\source\repos\Proje\Proje\obj\Debug\net5.0\Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bk4lk\source\repos\Proje\Proje\obj\Debug\net5.0\Proje.AssemblyInfoInputs.cache
+C:\Users\bk4lk\source\repos\Proje\Proje\obj\Debug\net5.0\Proje.AssemblyInfo.cs
+C:\Users\bk4lk\source\repos\Proje\Proje\obj\Debug\net5.0\Proje.csproj.CoreCompileInputs.cache
+C:\Users\bk4lk\source\repos\Proje\Proje\bin\Debug\net5.0\Proje.exe
+C:\Users\bk4lk\source\repos\Proje\Proje\bin\Debug\net5.0\Proje.deps.json
+C:\Users\bk4lk\source\repos\Proje\Proje\bin\Debug\net5.0\Proje.runtimeconfig.json
+C:\Users\bk4lk\source\repos\Proje\Proje\bin\Debug\net5.0\Proje.runtimeconfig.dev.json
+C:\Users\bk4lk\source\repos\Proje\Proje\bin\Debug\net5.0\Proje.dll
+C:\Users\bk4lk\source\repos\Proje\Proje\bin\Debug\net5.0\ref\Proje.dll
+C:\Users\bk4lk\source\repos\Proje\Proje\bin\Debug\net5.0\Proje.pdb
+C:\Users\bk4lk\source\repos\Proje\Proje\obj\Debug\net5.0\Proje.dll
+C:\Users\bk4lk\source\repos\Proje\Proje\obj\Debug\net5.0\ref\Proje.dll
+C:\Users\bk4lk\source\repos\Proje\Proje\obj\Debug\net5.0\Proje.pdb
+C:\Users\bk4lk\source\repos\Proje\Proje\obj\Debug\net5.0\Proje.genruntimeconfig.cache

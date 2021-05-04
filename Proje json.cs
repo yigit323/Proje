@@ -1,0 +1,21 @@
+[ 
+ {
+  port:443, foreginAddress:"51.103.5.159"
+ },
+ {
+  port:27032,
+  foreginAddress:"155.133.226.75"
+ },
+ {
+  port:443,
+  foreginAddress:"199.232.58.214"
+ },
+ {
+  port:5228,
+  foreginAddress:"74.125.144.188"
+ },
+ {
+  port:9354,
+  foreginAddress:"40.84.185.67"
+ }
+]
